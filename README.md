@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with 
 -->
 
-- 🔭 I’m currently working on my Outreachy application for The Ersilia Open Source Initiative
+- 🔭 I’m currently working on my website
 - 👯 I’m looking to collaborate on Machine Learning projects in Python
 - 📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/alt-shreya)
 - 😄 Pronouns: she/her
