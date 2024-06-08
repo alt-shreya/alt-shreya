@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 ## I'm Shreya!
 - 🌱 **I’m currently learning:** Golang, LLMs
 - 💬 **Ask me about:** building projects with Raspberry Pi
-- 🤔 **I’m looking for help with:** changing careers
+
