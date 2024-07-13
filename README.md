@@ -27,7 +27,7 @@ As of late I have been exploring linguistics, and I'd love to [connect](https://
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino,autocad,linux,c)](https://skillicons.dev)
 
 #### Frontend & Web Development
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,gatsby,mongodb,netlify,npm,tailwind,threejs,webflow,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,gatsby,mongodb,netlify,npm,tailwind,threejs,webflow,wordpress,nodejs)](https://skillicons.dev)
 
 #### Backend & Server-Side Development
 [![My Skills](https://skillicons.dev/icons?i=fastapi,flask,npm,postgres,sqlite)](https://skillicons.dev)
@@ -39,6 +39,6 @@ As of late I have been exploring linguistics, and I'd love to [connect](https://
 [![My Skills](https://skillicons.dev/icons?i=ae,figma,ps,pr,xd)](https://skillicons.dev)
 
 ### 🧠 Learning These Tools
-[![My Skills](https://skillicons.dev/icons?i=gcp,go,angular,express,graphql,nodejs,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,go,angular,express,graphql,ts)](https://skillicons.dev)
 
 
