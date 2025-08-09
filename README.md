@@ -6,7 +6,7 @@
 - 🤝 **Communities:** I run meetups for Automation Anywhere and Golang Bangalore. 
 - 🎭 **Scenes & stories:** I create moments worth remembering with my improv troupes: No Pressure Improv and The Riot Act.
 
-### 🏗️ Here's what I'm working on
+### 🏗️ What I'm working on
 - 🪪 designing my digital business card
 - 🕸️ creating No Pressure Improv's website
 - 👩‍🔬 vibe coding a comedogenicity checking app
