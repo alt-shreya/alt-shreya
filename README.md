@@ -7,9 +7,9 @@
 - 🎭 **Scenes & stories:** I create moments worth remembering with my improv troupes: No Pressure Improv and The Riot Act.
 
 ### 🏗️ Here's what I'm working on
-- 🪪 my digital business card
-- 🕸️ No Pressure Improv's website
-- 👩‍🔬 a comedogenicity checking app
+- 🪪 designing my digital business card
+- 🕸️ creating No Pressure Improv's website
+- 👩‍🔬 vibe coding a comedogenicity checking app
 
 ### 🧰 Toolbox
 - 🩻 **Core:** Python, JavaScript/TypeScript, SQL, Git • Flask/FastAPI • React/Vite • OpenAI/Gemini APIs  
@@ -18,6 +18,8 @@
 - 🎨 **Design-ish:** Figma, Adobe
 
 ### 💼 Work with me
+I like scrappy, useful things that solve problems and make life easier.  
+
 - ☕ Quick collabs on small, useful OSS  
 - 🧪 Prototyping community tools (moderation, discovery, learning)  
 - 🎤 Speaking/hosting dev meetups
